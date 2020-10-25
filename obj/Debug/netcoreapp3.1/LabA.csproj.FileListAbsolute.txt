@@ -1,0 +1,13 @@
+C:\Users\samca\Documents\LabA\bin\Debug\netcoreapp3.1\LabA.exe
+C:\Users\samca\Documents\LabA\bin\Debug\netcoreapp3.1\LabA.deps.json
+C:\Users\samca\Documents\LabA\bin\Debug\netcoreapp3.1\LabA.runtimeconfig.json
+C:\Users\samca\Documents\LabA\bin\Debug\netcoreapp3.1\LabA.runtimeconfig.dev.json
+C:\Users\samca\Documents\LabA\bin\Debug\netcoreapp3.1\LabA.dll
+C:\Users\samca\Documents\LabA\bin\Debug\netcoreapp3.1\LabA.pdb
+C:\Users\samca\Documents\LabA\obj\Debug\netcoreapp3.1\LabA.csprojAssemblyReference.cache
+C:\Users\samca\Documents\LabA\obj\Debug\netcoreapp3.1\LabA.AssemblyInfoInputs.cache
+C:\Users\samca\Documents\LabA\obj\Debug\netcoreapp3.1\LabA.AssemblyInfo.cs
+C:\Users\samca\Documents\LabA\obj\Debug\netcoreapp3.1\LabA.csproj.CoreCompileInputs.cache
+C:\Users\samca\Documents\LabA\obj\Debug\netcoreapp3.1\LabA.dll
+C:\Users\samca\Documents\LabA\obj\Debug\netcoreapp3.1\LabA.pdb
+C:\Users\samca\Documents\LabA\obj\Debug\netcoreapp3.1\LabA.genruntimeconfig.cache
